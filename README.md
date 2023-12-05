@@ -26,17 +26,110 @@ Laporan Resmi Praktikum Modul 4 Jaringan Komputer 2023
 
 ## Topologi
 ### Topologi pada Cisco Packet Tracer
+Berikut adalah topologi jaringan pada Cisco.
+<img width="1002" alt="Screenshot 2023-12-04 at 20 21 22" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/a3700fa2-4457-4c74-9bce-5370a96e03c9">
+
+### Pembagian Subnet
+Berikut adalah visualisasi pembagian subnet pada topologi jaringan.
+<img width="1002" alt="Screenshot 2023-12-04 at 20 07 11" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/154977b9-30b4-49cf-a5a7-b46cb72f5d47">
+
 ### Topologi pada GNS3
 Berikut adalah topologi jaringan pada GNS3.  
 ![Topologi pada GNS3](https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/107914177/bf433c47-5783-4954-906c-fa32eb9f6316)
+
 ### Pembagian Subnet
 Berikut adalah visualisasi pembagian subnet pada topologi jaringan.
 ![Subnet Map](https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/107914177/5609e3dc-f0a3-4c2d-82a2-e9001623ac1d)
 
 ## VLSM
 ### VLSM Tree
+![Jarkom4-Mantap](https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/192bf6f7-3212-44b1-9bcf-18951616ed5c)
+
 ### Pembagian IP
-### Testing
+<img width="831" alt="Screenshot 2023-12-04 at 19 47 22" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/c724c53f-0ac1-479f-980d-98b18b91047f">
+
+### IP berdasarkan subnetting yang sudah dibuat di dalam Packet Tracer
+- Router Aura
+<img width="700" alt="Screenshot 2023-12-05 at 10 16 53" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/533acc8c-2ba3-48fc-8c8f-d51c7f60c187">
+
+- Router Frieren
+<img width="699" alt="Screenshot 2023-12-05 at 10 17 58" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/6b748d88-da1f-49c0-a7e8-de824572211f">
+
+- Router Flamme
+<img width="696" alt="Screenshot 2023-12-05 at 10 18 14" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/fbff3f48-c1de-4dd6-af95-21fa0a38433d">
+
+- Router Fern
+<img width="698" alt="Screenshot 2023-12-05 at 10 18 34" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/82fd363c-5f15-4edc-a5d2-2b77c2826ed7">
+
+- Router Himmel
+<img width="695" alt="Screenshot 2023-12-05 at 10 18 45" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/1a6a96cf-3876-4b70-b8b0-46aca859c1da">
+
+- Router Denken
+<img width="697" alt="Screenshot 2023-12-05 at 10 19 01" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/c8245537-09d8-407d-99e9-bf3f19782d18">
+
+- Router Eisen
+<img width="696" alt="Screenshot 2023-12-05 at 10 19 21" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/27c49296-fd67-4ea9-a5e8-1abb53690657">
+
+- Router Lugner
+<img width="697" alt="Screenshot 2023-12-05 at 10 19 34" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/6bf9ba03-cad5-4f95-aef5-fddf7f58f3bd">
+
+- Router Linie
+<img width="696" alt="Screenshot 2023-12-05 at 10 19 48" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/dd9aed43-df32-4000-8ade-d41122b2bce8">
+
+- Router Lawine
+<img width="695" alt="Screenshot 2023-12-05 at 10 20 02" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/54ac9072-b804-4b1e-b5a2-726a3e94353a">
+
+- Router Heiter
+<img width="692" alt="Screenshot 2023-12-05 at 10 20 15" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/4bfa9a28-4cdd-43e1-9330-5aa3b22239af">
+
+- Client LaubHills
+<img width="697" alt="Screenshot 2023-12-05 at 10 43 45" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/60d2dd8d-cceb-4e23-b4f3-1477acd7b8f1">
+
+- Client AppetitRegion
+<img width="698" alt="Screenshot 2023-12-05 at 10 43 56" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/c4ae81db-180c-4d6a-be50-a35acd8ffb53">
+
+- Client RohrRoad
+<img width="692" alt="Screenshot 2023-12-05 at 10 48 01" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/3dcf3506-e3a2-41d7-af7c-3abd3983aa68">
+
+- Client SchwerMountains
+<img width="690" alt="Screenshot 2023-12-05 at 10 51 32" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/078cd52e-395f-4acf-b188-2ce5652eea97">
+
+- Client LakeKorridor
+<img width="694" alt="Screenshot 2023-12-05 at 10 51 46" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/4b467039-72b1-45d7-a57e-f57f8cb8bdb7">
+
+- Client RoyalCapital
+<img width="695" alt="Screenshot 2023-12-05 at 10 51 59" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/b430279a-c9fc-417d-80d4-d34c0e96a310">
+
+- Client WileRegion
+<img width="698" alt="Screenshot 2023-12-05 at 10 52 12" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/e29477e2-a997-4949-b03f-f79866789904">
+
+- Server Stark
+<img width="696" alt="Screenshot 2023-12-05 at 10 52 27" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/ce85ca9f-6c4b-499a-8bb0-3d03b82ad092">
+
+- Server Richter
+<img width="693" alt="Screenshot 2023-12-05 at 10 52 38" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/d194d977-e3e2-4eff-accd-713826b5d087">
+
+- Server Revolte
+<img width="697" alt="Screenshot 2023-12-05 at 10 52 52" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/4add11f6-c351-4d86-b2ea-a2d7fc0083af">
+
+- Client TurkRegion
+<img width="695" alt="Screenshot 2023-12-05 at 10 53 05" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/bf1bf779-c1b2-4960-a002-28db6d4c13a4">
+
+- Client GrobeForest
+<img width="690" alt="Screenshot 2023-12-05 at 10 53 18" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/804d1597-c702-4972-a87b-cb70cc2d8ee5">
+
+- Client BredtRegion
+<img width="697" alt="Screenshot 2023-12-05 at 10 53 30" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/a471810b-338f-4d9b-ad2f-7b31d852a6b4">
+
+- Client RiegelCanyon
+<img width="698" alt="Screenshot 2023-12-05 at 10 53 43" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/de66ca52-38e4-4f13-bdab-263e892efd8e">
+
+- Server Sein
+<img width="700" alt="Screenshot 2023-12-05 at 10 53 54" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/2026c32a-31b6-446e-b540-13e7110ce3b2">
+
+- Client GranzChannel
+<img width="695" alt="Screenshot 2023-12-05 at 10 54 04" src="https://github.com/afsulthon/Jarkom-Modul-4-E07-2023/assets/91003946/8176fc98-fb51-475d-bbdd-e8b05bbebd7c">
+
 
 ## CIDR
 Classless Inter-Domain Routing (CIDR) adalah metode pengalamatan IP yang memungkinkan alokasi alamat yang lebih efisien dengan menggunakan panjang prefix untuk menentukan panjang subnet. Contoh implementasi CIDR adalah sebagai berikut
